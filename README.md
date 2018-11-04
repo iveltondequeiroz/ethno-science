@@ -6,5 +6,4 @@ A D3.js data visualization Web App, an academic study about the Ethnic Diversity
 
 [Ethno-Science Visualization](https://iveltondequeiroz.github.io/ethno-science/index.html)
 
-![ethno-science][tehno-science.PNG]
-
+![ethno-science](ethno-science.PNG)
